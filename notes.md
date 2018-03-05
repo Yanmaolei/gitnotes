@@ -1,4 +1,4 @@
-nnux发行版
+# linu发行版
 - nbuntu
 - debian
 - redhat
